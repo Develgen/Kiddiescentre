@@ -1,0 +1,23 @@
+{
+  "name": "kiddiescentre",
+  "version": "1.0.0",
+  "description": "New version of the kiddiescentre website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Develgen/Kiddiescentre.git"
+  },
+  "keywords": [
+    "Kiddiescentre",
+    "website"
+  ],
+  "author": "Develgen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Develgen/Kiddiescentre/issues"
+  },
+  "homepage": "https://github.com/Develgen/Kiddiescentre#readme"
+}
